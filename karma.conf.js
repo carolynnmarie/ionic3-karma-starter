@@ -1,6 +1,6 @@
-// Karma configuration file, see link for more information
-// https://karma-runner.github.io/0.13/config/configuration-file.html
- 
+// Karma configuration
+// Generated on Tue Apr 03 2018 16:18:54 GMT-0400 (EDT)
+
 module.exports = function (config) {
   config.set({
     basePath: '',
